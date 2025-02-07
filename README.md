@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github and linkedin.
 - 📫 How to reach me.You can reach me at jessiedong27@outlook.com
 - 😄 Pronouns: j-d-max
-- ⚡ Fun fact: my cat is a Russian Blue mix and he seems to think himself a humban.
+- ⚡ Fun fact: my cat is a Russian Blue mix and he seems to think himself a human.
 
 <!---
 jdmax27/jdmax27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
